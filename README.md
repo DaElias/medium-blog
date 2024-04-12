@@ -8,7 +8,7 @@ You can explore blogs organized by categories:
 
 ## Technology
 
-- [Coming soon](#)
+- [Inversion of dependency and singleton in next.js](https://github.com/DaElias/medium-blog/tree/inversion-of-dependency-and-singleton-in-next.js)
 
 ## Education
 
