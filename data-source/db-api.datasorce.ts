@@ -6,7 +6,7 @@ export default class DBApi implements DatabaseRepository {
 
     constructor() {
         // Connection with db
-        console.log("Connection with MYSQL successful!!")
+        console.log("Connection with API successful!!")
     }
 
     public static getInstance(): DBApi {
